@@ -5,10 +5,10 @@ import { StaticImage } from "gatsby-plugin-image";
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>I'm making a Gatsby site via tutorial.</p>
+      <p>What the hell?</p>
       <StaticImage
         alt="an opossum under a canoe"
-        src="../images/opossom.jpg"
+        src="@images/opossom.jpg"
       />
     </Layout>
   )
