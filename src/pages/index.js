@@ -10,6 +10,7 @@ const IndexPage = () => {
         alt="an opossum under a canoe"
         src="../images/opossom.jpg"
         placeholder="blurred"
+        loading="eager"
       />
     </Layout>
   )
